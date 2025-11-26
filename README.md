@@ -19,9 +19,7 @@
 
 - 💬 Ask me about **Frontend Developing , UI/UX Developing**
 
-- 📫 How to reach me **tanik0505.skt@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uBKuooiEuH1bqLBTyLqIdzF_F1YNNFpH/view?usp=drive_link](https://drive.google.com/file/d/1uBKuooiEuH1bqLBTyLqIdzF_F1YNNFpH/view?usp=drive_link)
+- 📫 How to reach me **taniksarkar.skt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
