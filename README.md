@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://tanik0505.github.io/Portfolio_identity.github.io/](https://tanik0505.github.io/Portfolio_identity.github.io/)
+- 👨‍💻 All of my projects are available at [https://taniksarkar.in/](https://taniksarkar.in/)
 
 - 💬 Ask me about **Frontend Developing , UI/UX Developing**
 
